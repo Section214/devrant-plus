@@ -1,0 +1,25 @@
+/** Profile Integration **/
+.devrant-plus-profile-integration {
+    background: #fff;
+    padding: 10px 0 0 0;
+}
+
+.devrant-plus-profile-integration a {
+    color: #aaaab8;
+    font-size: 12px;
+    padding: 2px 4px;
+    border: 2px solid #e3e3e3;
+    border-radius: 5px;
+    font-weight: bold;
+    background-color: #fff;
+    text-align: justify;
+    display: inline-block;
+}
+
+.devrant-plus-profile-integration a:hover {
+    color: #d55161;
+    border-color: #d55161;
+    -webkit-transition: all .15s ease-in-out;
+    transition: all .15s ease-in-out;
+    cursor: pointer;
+}
