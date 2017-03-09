@@ -152,7 +152,7 @@ let aboutScripts = {
             profileLink.className = 'devrant-plus-profile-integration';
 
             let profileLinkButton = document.createElement('a');
-            profileLinkButton.setAttribute('href', 'https://github.com/section214/devrant-plus/issues');
+            profileLinkButton.setAttribute('href', 'https://github.com/Section214/devrant-plus/issues');
             profileLinkButton.target = '_blank';
             profileLinkButton.textContent = 'Hey there! If you\'re seeing this, you\'re using my devRant Plus plugin for Firefox. Congratulations! If you have questions about this plugin, or have an idea for a new integration, click here and let me know!';
 
